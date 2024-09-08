@@ -1,1 +1,8 @@
-# chikiitx hello
+# blank
+
+blank
+
+## Attributes
+
+- **Database**: mongodb
+- **Storage Adapter**: localDisk
